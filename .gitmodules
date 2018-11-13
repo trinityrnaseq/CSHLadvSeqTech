@@ -1,3 +1,6 @@
 [submodule "CSHLadvSeqTech2017.wiki"]
 	path = CSHLadvSeqTech2017.wiki
 	url = https://github.com/trinityrnaseq/CSHLadvSeqTech2017.wiki.git
+[submodule "CSHLadvSeqTech.wiki"]
+	path = CSHLadvSeqTech.wiki
+	url = https://github.com/trinityrnaseq/CSHLadvSeqTech.wiki.git
